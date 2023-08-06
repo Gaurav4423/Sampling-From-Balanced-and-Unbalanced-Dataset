@@ -1,7 +1,7 @@
-# Sampling-Assignment
-## This is the Repository for Sampling Assignment for the course UCS654
+# Sampling From Balanced and Unbalanced Dataset
 
-In this Assignment we will be using different Sampling Techniques to construct a balanced dataset from an unbalanced dataset containing CreditCard Information.
+
+In this, we will be using different Sampling Techniques to construct a balanced dataset from an unbalanced dataset containing CreditCard Information.
 
 #### To balance the dataset given techniques were used:
 1. Random UnderSampling
